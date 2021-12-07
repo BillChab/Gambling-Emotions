@@ -11,12 +11,12 @@ Download the latest version of [LabRecorder](https://github.com/labstreaminglaye
 
 ## STEP 3 - Downloads (3/3) + Fix
 
-Download [VideoAcq](https://bitbucket.org/neatlabs/videoacq/downloads/) and unzip it.
+Download [VideoAcq](https://bitbucket.org/neatlabs/videoacq/downloads/) and unzip it.  
 In the extracted folder replace the "VideoAcq.py" file with the one in the previously downloaded "Misc" folder.
 
 ## STEP 4 - Python
 
-Download and install the latest version of [Python](https://www.python.org/downloads/).
+Download and install the latest version of [Python](https://www.python.org/downloads/).  
 ***IMPORTANT: Make sure to add it to PATH during installation.***
 
 ## STEP 5 - Dependencies
@@ -36,17 +36,17 @@ Run "Thesis.exe", "LabRecorder.exe", and "VideoAcq.py" in their respective folde
 
 ## STEP 7 - VideoAcq
 
-a) Assuming you have a camera connected to your device, the VideoAcq window should display it as row "1" with two columns, "Camera" and "Settings".
-   If not, connect one and press the "Refresh" button (blue cyrcling arrows on the right).
-b) Tick the box below "Camera" and press the gears button below "Settings".
-c) On the Settings popup, press the "Reset" button, select the folder the video will be saved in, and press "OK".
-d) Once back in the main window, press the "Record" button on the right to start recording and streaming the feed from your connected camera.
+a) Assuming you have a camera connected to your device, the VideoAcq window should display it as row "1" with two columns, "Camera" and "Settings".  
+   If not, connect one and press the "Refresh" button (blue cyrcling arrows on the right).  
+b) Tick the box below "Camera" and press the gears button below "Settings".  
+c) On the Settings popup, press the "Reset" button, select the folder the video will be saved in, and press "OK".  
+d) Once back in the main window, press the "Record" button on the right to start recording and streaming the feed from your connected camera.  
 
 ## STEP 8 - LabRecorder
 
-The LabRecorder window should display two streams in green letters in the "Record from Streams" panel (the game and VideoAcq). If not, press the "Update" button below it.
-Select both of the streams and press the "Start" button above them to start recording data from them.
-
+The LabRecorder window should display two streams in green letters in the "Record from Streams" panel (the game and VideoAcq). If not, press the "Update" button below it.  
+Select both of the streams and press the "Start" button above them to start recording data from them.  
+  
 NOTE: The default path the .xdf file is saved in is the "Documents" folder. That along with info which is part of the .xdf file name (participant, session, run, etc.) can be configured through the "Saving to..." panel on the right.
 
 ## STEP 9 - Game
@@ -55,7 +55,7 @@ Start playing the game. You can select multiple numbers on the layout by hoverin
 
 ## STEP 10 - End
 
-a) Once you exit the game, go back to the VideoAcq window and press the "Stop" button on the right to finish the recording.
+a) Once you exit the game, go back to the VideoAcq window and press the "Stop" button on the right to finish the recording.  
 b) After you stop the video recording, go back to the LabRecorder window and press the "Stop" button above the streams to finish recording data.
 
 ## STEP 11 - Results
