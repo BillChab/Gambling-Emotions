@@ -59,4 +59,4 @@ Start playing the game. You can select multiple numbers on the layout by hoverin
 
 ## STEP 11 - Results
 
-Navigate to the folder the .xdf file was saved in, place in there the "Data.py" file from the "Misc" folder downloaded during STEP 1, run it by double clicking it, type the full name of the .xdf file on the prompt, **including the ".xdf" part**, and view all recorded data.
+Navigate to the folder the .xdf file was saved in, place in there the "Data.py" file from the "Misc" folder downloaded during STEP 1, run it by double clicking it, type the full name of the .xdf file on the prompt, ***including the ".xdf" part***, and view all recorded data.
