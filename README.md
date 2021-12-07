@@ -36,10 +36,10 @@ Run "Thesis.exe", "LabRecorder.exe", and "VideoAcq.py" in their respective folde
 
 ## STEP 7 - VideoAcq
 
-a) Assuming you have a camera connected to your device, the VideoAcq window should display it as row "1" with two columns, "Camera" and "Settings". If not, connect one and press the "Refresh" button (blue cyrcling arrows on the right).  
-b) Tick the box below "Camera" and press the gears button below "Settings".  
-c) On the Settings popup, press the "Reset" button, select the folder the video will be saved in, and press "OK".  
-d) Once back in the main window, press the "Record" button on the right to start recording and streaming the feed from your connected camera.
+1. Assuming you have a camera connected to your device, the VideoAcq window should display it as row "1" with two columns, "Camera" and "Settings". If not, connect one and press the "Refresh" button (blue cyrcling arrows on the right).
+2. Tick the box below "Camera" and press the gears button below "Settings".
+3. On the Settings popup, press the "Reset" button, select the folder the video will be saved in, and press "OK".
+4. Once back in the main window, press the "Record" button on the right to start recording and streaming the feed from your connected camera.
 
 ## STEP 8 - LabRecorder
 
@@ -54,8 +54,8 @@ Start playing the game. You can select multiple numbers on the layout by hoverin
 
 ## STEP 10 - End
 
-a) Once you exit the game, go back to the VideoAcq window and press the "Stop" button on the right to finish the recording.  
-b) After you stop the video recording, go back to the LabRecorder window and press the "Stop" button above the streams to finish recording data.
+1. Once you exit the game, go back to the VideoAcq window and press the "Stop" button on the right to finish the recording.  
+2. After you stop the video recording, go back to the LabRecorder window and press the "Stop" button above the streams to finish recording data.
 
 ## STEP 11 - Results
 
