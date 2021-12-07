@@ -5,19 +5,25 @@ using UnityEngine.UI;
 
 public class Layout : MonoBehaviour
 {
+	// Class attribute
 	string SelectedNumber;
-	public Button BetButton;
-	public Text BetText;
+	
+	// UI attributes
+	public Blackboard Blackboard;
+	public Buttons Buttons;
+	
+	// Stream attribute
+	public Streamer Streamer;
     
+	// Class methods
+	public string GetNumber() { return SelectedNumber; }
     public void SetNumber(Button LayoutNumber)
     {
         SelectedNumber = LayoutNumber.name;
-		BetText.text = "Bet on " + SelectedNumber + "?";
-		BetButton.interactable = true;
+		Blackboard.SetBet("Bet on " + SelectedNumber + "?");
+		
+		Streamer.PushSample(SelectedNumber + " selected");
+		
+		Buttons.transform.Find("Bet").GetComponent<Button>().interactable = true;
     }
-	
-	public string GetNumber()
-	{
-		return SelectedNumber;
-	}
 }
