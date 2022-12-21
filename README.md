@@ -51,7 +51,7 @@ Select both of the streams and press the "Start" button above them to start reco
 
 ## STEP 9 - Game
 
-*NOTE: Before pressing the "Let's Play" button in the game, make sure you have a way to mark the moment you press it on camera. One easy way is to make a visible hand gesture as you press the button. This is meant to help calculate the "Offset" value during STEP 12*
+*NOTE: Before pressing the "Let's Play" button in the game, make sure you have a way to mark the moment you press it on camera. One easy way is to make a visible hand gesture as you press the button. This is meant to help calculate the "Offset" value during STEP 12.*
 
 Start playing the game. You can select multiple numbers on the layout by hovering between them or on the sides just as you would place a betting chip on the board (see [Chip Placement](https://en.wikipedia.org/wiki/Roulette#Inside_bets)). Due to limitations, you can only select one betting method at a time. Once you have, press the "Bet" button, confirm your bet, and watch the wheel spin. You can view your round, budget, bet, and outcome on the blackboard to the right. Once the results are in, wait 5 seconds, press the "Reset" button, and go again. Feel free to play until you zero or triple your initial budget. You can quit the application at any time by pressing the "Exit" button.
 
