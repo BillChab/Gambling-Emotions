@@ -39,7 +39,7 @@ Run "Thesis.exe", "LabRecorder.exe", and "VideoAcq.py" in their respective folde
 
 1. Assuming you have a camera connected to your device, the VideoAcq window should display it as row "1" with two columns, "Camera" and "Settings". If not, connect one and press the "Refresh" button (blue cyrcling arrows on the right).
 2. Tick the box below "Camera" and press the gears button below "Settings".
-3. On the Settings popup, press the "Reset" button, select the folder the video will be saved in, and press "OK".
+3. On the Settings popup, press the "Reset" button, select the the "Misc" folder downloaded during STEP 1 to save the video in, and press "OK".
 4. Once back in the main window, press the "Record" button on the right to start recording and streaming the feed from your connected camera.
 
 ## STEP 8 - LabRecorder
