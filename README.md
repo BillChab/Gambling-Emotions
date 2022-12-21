@@ -76,4 +76,5 @@ Perform the following steps for any event you want analyzed whose timestamp was 
 1. Navigate to the "Misc" folder downloaded during STEP 1.
 2. Use this [guide](https://www.youtube.com/watch?v=4NuK7wSQUNs&ab_channel=AverageLinuxUser) to convert the desired parts of the recorded footage into images and save them in the "frames" folder. A .m3u file is provided.
 3. If you are performing this step for the first time, before running "Analysis.py", edit line 7 of "Analysis.py" so the path matches the path of the "frames" folder. Otherwise, simply run "Analysis.py" by double clicking it.
+
 Once the analysis is complete, open "data.txt" to view the sequence of emotions per frame(s) in one line and the number of emotional occurences in the other.
